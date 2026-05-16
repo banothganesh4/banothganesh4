@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 MSc Data Analytics — KEDGE Business School, Bordeaux (2025–Present)<br>📊 3+ years of experience in Data Analysis & Quality Analytics<br>🔍 Specialising in Python, SQL, Power BI, Excel & ETL pipelines<br>📈 Built dashboards tracking 10+ KPIs | Improved data accuracy <br>🌍 Seeking 6-month Data Analyst internship in France/Europe (May 2026)<br>🌱 Learning GenAI, AI Agents, RAG, New Tools<br>🗣 English (Fluent, TOEFL) | French (A2)<br>📬 ganeshb1667391@gmail.com
+🎓 MSc Data Analytics — KEDGE Business School, Bordeaux (2025–Present)<br>📊 3+ years of experience in Data Analysis & Quality Analytics<br>🔍 Specialising in Python, SQL, Power BI, Excel & ETL pipelines<br>📈 Built dashboards tracking 10+ KPIs | Improved data accuracy <br>🌍 Seeking 6-month and Full time Roles  Data Analyst internship in France/Europe (May 2026)<br>🌱 Learning GenAI, AI Agents, RAG, New Tools<br>🗣 English (Fluent, TOEFL) | French (A2)<br>📬 ganeshb1667391@gmail.com
 
 
 ## 🌐 Socials:
