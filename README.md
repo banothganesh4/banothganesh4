@@ -6,7 +6,7 @@
 💼 **3+ years of experience** across Data Analysis & Data Quality Analytics
 📊 Experienced in **SQL, Python, Power BI, Tableau, Excel, ETL, KPI Reporting & Data Visualization**
 🔍 Interested in **Customer Analytics, Business Intelligence, Operations Analytics & Data Quality**
-🌍 Based in France | Open to **6-month Data Analyst internships from January 2027**
+🌍 Based in France | Open to **6-month Data Analyst internships Immediate **
 
 ---
 
