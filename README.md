@@ -1,5 +1,84 @@
-# 💫 About Me:
-🎓 MSc Data Analytics — KEDGE Business School, Bordeaux (2025–Present)<br>📊 3+ years of experience in Data Analysis & Quality Analytics<br>🔍 Specialising in Python, SQL, Power BI, Excel & ETL pipelines<br>📈 Built dashboards tracking 10+ KPIs | Improved data accuracy <br>🌍 Seeking 6-month and Full time Roles  Data Analyst internship in France/Europe (May 2026)<br>🌱 Learning GenAI, AI Agents, RAG, New Tools<br>🗣 English (Fluent, TOEFL) | French (A2)<br>📬 ganeshb1667391@gmail.com
+# 👋 Hi, I'm Ganesh
+
+### 📊 Data Analyst | Customer & Operations Analytics | SQL | Python | Power BI | Tableau
+
+🎓 **MSc Data Analytics for Business** — KEDGE Business School, Bordeaux, France
+💼 **3+ years of experience** across Data Analysis & Data Quality Analytics
+📊 Experienced in **SQL, Python, Power BI, Tableau, Excel, ETL, KPI Reporting & Data Visualization**
+🔍 Interested in **Customer Analytics, Business Intelligence, Operations Analytics & Data Quality**
+🌍 Based in France | Open to **6-month Data Analyst internships from January 2027**
+
+---
+
+## 🛠️ Technical Skills
+
+**Data & Programming**
+Python • Pandas • NumPy • SQL • MySQL • Scikit-learn
+
+**Business Intelligence**
+Power BI • DAX • Tableau • Excel • Power Query
+
+**Analytics**
+Data Cleaning • Data Validation • Data Quality • EDA • KPI Reporting • Statistical Analysis • Anomaly Detection • Root-Cause Analysis
+
+**Data Engineering / Tools**
+ETL • Data Modeling • Git • GitHub • Jupyter Notebook
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-commerce Data Quality & Customer Analytics
+
+**MySQL • Python • Pandas • Power BI**
+
+End-to-end analytics project covering data profiling, data cleaning, SQL analysis, customer analytics and Power BI dashboard development.
+
+👉 [View Project](https://github.com/banothganesh4/ecommerce-data-quality-analytics)
+
+### 📦 AI-Driven Supply Chain Analytics
+
+**Python • Pandas • Scikit-learn • Power BI • Excel**
+
+Analyzed inventory and demand data to identify demand patterns, stockout risks, slow-moving products and operational inefficiencies.
+
+👉 [View Project](https://github.com/banothganesh4/AI-Driven-Supply-Chain-Analytics-Dashboard-using-Power-BI-Python-KPI-Analysis-Inventory-Optimization)
+
+### 📈 Global Sales Dashboard
+
+**Excel • Data Analysis • KPI Reporting**
+
+Interactive sales dashboard analyzing 10K+ records to identify sales trends and business performance.
+
+### 🚚 Supply Chain Inventory Dashboard
+
+**Excel • Supply Chain Analytics**
+
+Inventory optimization and disruption analysis using KPI-driven dashboarding.
+
+---
+
+## 🎯 Career Interests
+
+* Data Analyst
+* Customer Data Analyst
+* Business Intelligence Analyst
+* Operations Data Analyst
+* Reporting Analyst
+* Business Analyst
+* Customer Analytics
+* Supply Chain Analytics
+
+📍 France / Europe
+📅 Available for **6-month internships from January 2027**
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: [Banoth Ganesh](https://www.linkedin.com/in/banoth-ganesh-80801b391/)
+📧 Email: [ganeshb1667391@gmail.com](mailto:ganeshb1667391@gmail.com)
+
 
 
 ## 🌐 Socials:
